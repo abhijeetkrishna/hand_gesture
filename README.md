@@ -11,10 +11,11 @@
 
 ---
 
-<p align="center"> Automated tuning of degree for polynomial regrssion using Scikit-Learn
+<p align="center"> A deep learning based classification of hand gesture images
     <br> 
 </p>
 
+![Sample output](./output/predictions_sample.png)
 
 ## About <a name = "about"></a>
 A simple image classification project to classify images of hand gestures. Dataset was taken from [here](https://www.kaggle.com/datasets/sprakash08/hand-gestures-recognition/). Here I use deep learning to classify the images.
