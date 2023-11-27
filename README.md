@@ -12,13 +12,12 @@
 ---
 
 <p align="center"> A deep learning based classification of hand gesture images
-
-![Sample output](./output/predictions_sample.png)
-
     <br> 
 </p>
 
-
+<p align="center">
+  <img src=./output/predictions_sample.png />
+</p>
 
 ## About <a name = "about"></a>
 A simple image classification project to classify images of hand gestures. Dataset was taken from [here](https://www.kaggle.com/datasets/sprakash08/hand-gestures-recognition/). Here I use deep learning to classify the images.
